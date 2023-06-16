@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="_device_class_phone" />
+      </config>
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83be64db-55ec-491e-93f4-2df5d698781b" name="Changes" comment="add adapter">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\TUF GAMING\.android\avd\Pixel_2_API_24_2.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+        <option value="resourceFile" />
+        <option value="navigationResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2QkMegmPz8OR8ETQ7RFDyHIBjxH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "PROJECT_TRUSTED_KEY": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android-custom-view/home/stefanus/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED": "RecyclerView",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Kuliah/Semester 6/Bangkit/Capstone/Final Project 1/SocialMedia3",
+    "memory.settings.postsync.last.time.stamp": "1686871236097",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Dependencies",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "android.recentlyUsedThemes": [
+      "Theme.Material3.Dark"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/c23_ps162/trade_net/ui/screen/search" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/anim" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/c23_ps162/trade_net/ui/screen/home" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/c23_ps162/trade_net" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/singularity_indonesia/socialmedia/util" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/singularity_indonesia/socialmedia/data/repository" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/singularity_indonesia/socialmedia/ui" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.singularity_indonesia.socialmedia.util.pattern" />
+      <recent name="com.singularity_indonesia.socialmedia.ui.screen.login" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="SocialMedia.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83be64db-55ec-491e-93f4-2df5d698781b" name="Changes" comment="" />
+      <created>1685893223076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685893223076</updated>
+      <workItem from="1685893227071" duration="3370000" />
+      <workItem from="1686809535640" duration="13000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1685932656728</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685932656728</updated>
+    </task>
+    <task id="LOCAL-00002" summary="registration page state handle">
+      <created>1686043720628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686043720628</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add on registration success handle">
+      <created>1686045621173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686045621173</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add InterestFragment">
+      <created>1686045638821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686045638821</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add deps">
+      <created>1686048208905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686048208905</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add utils">
+      <created>1686048225050</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686048225050</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update login result">
+      <created>1686048271667</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686048271667</updated>
+    </task>
+    <task id="LOCAL-00008" summary="go to interest fragment if user have no interest yet">
+      <created>1686093752437</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686093752437</updated>
+    </task>
+    <task id="LOCAL-00009" summary="display interest list">
+      <created>1686097564501</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686097564501</updated>
+    </task>
+    <task id="LOCAL-00010" summary="handle backpress">
+      <created>1686097864595</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686097864595</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add dummy backend">
+      <created>1686107684447</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686107684447</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update differ">
+      <created>1686108166246</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686108166246</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update local profile">
+      <created>1686109516122</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686109516122</updated>
+    </task>
+    <task id="LOCAL-00014" summary="simplify">
+      <created>1686124374497</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686124374497</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add dashboard fragment">
+      <created>1686131269210</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686131269210</updated>
+    </task>
+    <task id="LOCAL-00016" summary="change Package Name and Application Name">
+      <created>1686577582979</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686577582979</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update vcs">
+      <created>1686577606815</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1686577606815</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add Home, Search, Profile">
+      <created>1686593986961</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1686593986961</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add post item">
+      <created>1686595136779</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1686595136779</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add profile">
+      <created>1686597885881</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1686597885881</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add make post">
+      <created>1686599584125</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1686599584125</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update search item">
+      <created>1686726138329</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1686726138329</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add profile navigation">
+      <created>1686728604474</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1686728604474</updated>
+    </task>
+    <task id="LOCAL-00024" summary="select image to post">
+      <created>1686872296405</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1686872296405</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add adapter">
+      <created>1686874606266</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1686874606266</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add adapter">
+      <created>1686874917284</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1686874917284</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="registration page state handle" />
+    <MESSAGE value="add interest page" />
+    <MESSAGE value="add on registration success handle" />
+    <MESSAGE value="add InterestFragment" />
+    <MESSAGE value="add deps" />
+    <MESSAGE value="add utils" />
+    <MESSAGE value="update login result" />
+    <MESSAGE value="go to interest fragment if user have no interest yet" />
+    <MESSAGE value="display interest list" />
+    <MESSAGE value="handle backpress" />
+    <MESSAGE value="add dummy backend" />
+    <MESSAGE value="update differ" />
+    <MESSAGE value="update local profile" />
+    <MESSAGE value="simplify" />
+    <MESSAGE value="add dashboard fragment" />
+    <MESSAGE value="change Package Name and Application Name" />
+    <MESSAGE value="update vcs" />
+    <MESSAGE value="add Home, Search, Profile" />
+    <MESSAGE value="add post item" />
+    <MESSAGE value="add profile" />
+    <MESSAGE value="add make post" />
+    <MESSAGE value="update search item" />
+    <MESSAGE value="add profile navigation" />
+    <MESSAGE value="select image to post" />
+    <MESSAGE value="add adapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="add adapter" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/c23_ps162/trade_net/ui/screen/dashboard/DashboardFragment.kt</url>
+          <line>98</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/c23_ps162/trade_net/ui/screen/dashboard/DashboardFragment.kt</url>
+          <line>97</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/c23_ps162/trade_net/ui/screen/dashboard/DashboardFragment.kt</url>
+          <line>96</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/c23_ps162/trade_net/ui/screen/dashboard/DashboardFragment.kt</url>
+          <line>81</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
