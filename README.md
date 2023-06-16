@@ -2,7 +2,7 @@
 Capstone Project for Group PS-162
 ![logocapstone](https://github.com/dimasramadhan29/Capstone-Project-PS162/assets/79414122/80019eb4-80e9-47cd-b57b-b6a650447cd3)
 
-## hello welcome to our repository for the capstone project rise 2023. our team consists of 6 people consisting of 3 ML learning paths, 2 CC and 1 MD
+## Hello welcome to our repository for the capstone project rise 2023. our team consists of 6 people consisting of 3 ML learning paths, 2 CC and 1 MD
 
 - Darryl Patrick Matheuw Kurniawan (M368DSX3209)
 - Dimas Aditya Ramadhan (M350DSX1756)
